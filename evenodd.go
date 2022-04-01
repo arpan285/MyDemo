@@ -6,7 +6,7 @@ func main() {
 
 	var a int
 
-	fmt.Printf("Enter a nuber: ")
+	fmt.Printf("Enter a NUnuber: ")
 	fmt.Scanf("%v", &a)
 	fmt.Println("Your numbers is:", a)
 
